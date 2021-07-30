@@ -1,0 +1,42 @@
+p { color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+.destacados{
+    text-transform: uppercase;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: height 30px;
+    
+    }
+#contenedor{
+    width: 800px;
+    background-color: rgba(43, 43, 243, 0.219)
+    ;
+
+
+}
+#intentos{
+	border:1px solid rgb(0, 234, 255);
+	background-color: #6a7ffa62;
+	/* position: static; */
+	margin:0 auto;
+	width: 40%;
+	height: 40px;
+   ;}
+
+    h1 {  text-transform: uppercase;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: height 10px;
+    }
+    h2{  text-transform: uppercase;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: height 10px;
+    }
+   h3{  text-transform: uppercase;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: height 10px;
+    }
