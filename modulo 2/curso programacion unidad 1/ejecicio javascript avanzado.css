@@ -1,0 +1,31 @@
+.cuadrado {
+width: 200px;         
+height: 200px;         
+margin: 2px;                 
+float: left;
+border: 2px solid black;
+}
+.cuadrado2 {
+width: 200px;         
+height: 200px;         
+margin: 2px;                 
+float: left;
+border: 2px solid black;
+}
+.cuadrado3 {
+    width: 200px;         
+    height: 200px;         
+    margin: 2px;                 
+    float: left;
+    border: 2px solid black;
+    }
+
+.rojo {
+    background:red;
+}
+.verde{
+    background: green;
+}
+.azul{
+    background: blue;
+}
